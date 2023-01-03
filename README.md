@@ -1,7 +1,7 @@
 # Research-Data-and-Code
 Repository for Code and Raw Data from Research Projects
 
-## A MIP-base method for route selection, frequency setting and passenger flow in transt network planning problems
+## A MIP-base method for route selection, frequency setting and passenger flow in transit network planning problems
 The Code and Unprocessed Data associated with this manuscript is housed here temporarily. The unprocessed data is the data used for analysis in the manuscript. The code is for the purposes of recreating results.
 
 ### Note
