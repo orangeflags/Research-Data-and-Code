@@ -1,0 +1,5 @@
+mandls_network; Direct: 110; Transfer: 30413; Edges: 690932; alpha_2: 0; Optimal: 161050; Time (ms): 1009039
+mandls_network; Direct: 120; Transfer: 37383; Edges: 889241; alpha_2: 0; Optimal: 160880; Time (ms): 2167415
+mandls_network; Direct: 130; Transfer: 42800; Edges: 940223; alpha_2: 0; Optimal: 160120; Time (ms): 1922020
+mandls_network; Direct: 140; Transfer: 48368; Edges: 1149541; alpha_2: 0; Optimal: 159820; Time (ms): 3700824
+mandls_network; Direct: 150; Transfer: 58357; Edges: 1398967; alpha_2: 0; Optimal: 157770; Time (ms): 3368149

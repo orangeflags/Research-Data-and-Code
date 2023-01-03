@@ -1,0 +1,14 @@
+mandls_network; Direct: 10; Transfer: 213; alpha_2: 0; Optimal: 190300; Time (ms): 819
+mandls_network; Direct: 20; Transfer: 1115; alpha_2: 0; Optimal: 173149552; Time (ms): 4324
+mandls_network; Direct: 30; Transfer: 2312; alpha_2: 0; Optimal: 170840; Time (ms): 160629
+mandls_network; Direct: 40; Transfer: 3793; alpha_2: 0; Optimal: 168920; Time (ms): 340711
+mandls_network; Direct: 50; Transfer: 6052; alpha_2: 0; Optimal: 173210; Time (ms): 2228090
+mandls_network; Direct: 60; Transfer: 8374; alpha_2: 0; Optimal: 167900; Time (ms): 2991635
+mandls_network; Direct: 70; Transfer: 12359; alpha_2: 0; Optimal: 167480; Time (ms): 3615122
+mandls_network; Direct: 80; Transfer: 16565; alpha_2: 0; Optimal: 168580; Time (ms): 3620660
+mandls_network; Direct: 90; Transfer: 21278; alpha_2: 0; Optimal: 168500; Time (ms): 3629422
+mandls_network; Direct: 100; Transfer: 24972; alpha_2: 0; Optimal: 170000; Time (ms): 3641187
+
+C:\Users\Joshua\Desktop\16 - Final\C++\RS-FS-PF Implementation\x64\Release\initial_implementation.exe (process 26408) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

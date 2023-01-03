@@ -1,0 +1,17 @@
+toy_network/10-a; Direct: 133; Transfer: 26740; Edges: 322809; alpha_2: 0; Optimal: 42968; Time (s): 196
+toy_network/10-b; Direct: 133; Transfer: 26740; Edges: 322809; alpha_2: 0; Optimal: 45422; Time (s): 332
+toy_network/10-c; Direct: 133; Transfer: 26740; Edges: 322809; alpha_2: 0; Optimal: 45868; Time (s): 180
+toy_network/10-d; Direct: 133; Transfer: 26740; Edges: 322809; alpha_2: 0; Optimal: 47001; Time (s): 175
+toy_network/10-e; Direct: 133; Transfer: 26740; Edges: 322809; alpha_2: 0; Optimal: 50037; Time (s): 175
+toy_network/10-f; Direct: 133; Transfer: 26740; Edges: 322809; alpha_2: 0; Optimal: 52367; Time (s): 678
+toy_network/10-g; Direct: 133; Transfer: 26740; Edges: 322809; alpha_2: 0; Optimal: 50536; Time (s): 154
+
+
+
+toy_network/11-a; Direct: 141; Transfer: 29146; Edges: 365401; alpha_2: 0; Optimal: 59476; Time (s): 296
+toy_network/11-b; Direct: 141; Transfer: 29146; Edges: 365401; alpha_2: 0; Optimal: 60869; Time (s): 629
+toy_network/11-c; Direct: 141; Transfer: 29146; Edges: 365401; alpha_2: 0; Optimal: 61607; Time (s): 193
+toy_network/11-d; Direct: 141; Transfer: 29146; Edges: 365401; alpha_2: 0; Optimal: 62683; Time (s): 225
+toy_network/11-e; Direct: 141; Transfer: 29146; Edges: 365401; alpha_2: 0; Optimal: 67429; Time (s): 310
+toy_network/11-f; Direct: 141; Transfer: 29146; Edges: 365401; alpha_2: 0; Optimal: 69293; Time (s): 371
+toy_network/11-g; Direct: 141; Transfer: 29146; Edges: 365401; alpha_2: 0; Optimal: 67620; Time (s): 366

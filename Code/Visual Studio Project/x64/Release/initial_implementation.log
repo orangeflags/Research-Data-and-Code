@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\n9709231\OneDrive - Queensland University of Technology\Desktop\16 - Final\To Keep\C++\RS-FS-PF Implementation\model.h(263,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\n9709231\OneDrive - Queensland University of Technology\Desktop\16 - Final\To Keep\C++\RS-FS-PF Implementation\model.h(319,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\n9709231\OneDrive - Queensland University of Technology\Desktop\16 - Final\To Keep\C++\RS-FS-PF Implementation\CPLEX_Model.h(28,30): warning C4101: 's': unreferenced local variable
+C:\Users\n9709231\OneDrive - Queensland University of Technology\Desktop\16 - Final\To Keep\C++\RS-FS-PF Implementation\main.cpp(105,6): warning C4101: 'optimal_solution_output': unreferenced local variable
+C:\Users\n9709231\OneDrive - Queensland University of Technology\Desktop\16 - Final\To Keep\C++\RS-FS-PF Implementation\main.cpp(281,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\n9709231\OneDrive - Queensland University of Technology\Desktop\16 - Final\To Keep\C++\RS-FS-PF Implementation\main.cpp(322,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\n9709231\OneDrive - Queensland University of Technology\Desktop\16 - Final\To Keep\C++\RS-FS-PF Implementation\main.cpp(336,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\n9709231\OneDrive - Queensland University of Technology\Desktop\16 - Final\To Keep\C++\RS-FS-PF Implementation\main.cpp(862,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  122 of 1412 functions ( 8.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    41 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  initial_implementation.vcxproj -> C:\Users\n9709231\OneDrive - Queensland University of Technology\Desktop\16 - Final\To Keep\C++\RS-FS-PF Implementation\x64\Release\initial_implementation.exe
